@@ -2,7 +2,7 @@
 <extension key="com.skvare.countyapi" type="module">
   <file>countyapi</file>
   <name>County API Entity</name>
-  <description>Adds a County API Entity</description>
+  <description>Adds API Entities for County and StateProvince</description>
   <license>GPL-3.0</license>
   <maintainer>
     <author>Skvare, LLC</author>
